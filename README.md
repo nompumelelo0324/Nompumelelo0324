@@ -13,3 +13,5 @@ Start quiz button: when you start to click the “start” button it would then 
 True/false button: the “true/false” button give you an option to select if the questions that appear is true or false 
 
 Next button: it slides you to the “next question” after you have answered then also would be showing you which of your questions you have got correctly, and which are wrong.  
+
+https://www.youtube.com/watch?v=dOflSLQhN1w&t=4s 
